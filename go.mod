@@ -12,8 +12,5 @@ require (
 	github.com/relvacode/iso8601 v1.6.0
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.8.4
-	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.30.0
 )
-
-replace github.com/lorenzodonini/ocpp-go => github.com/greenbowdk/ocpp-go v0.0.0-20250714120848-435ee4e5f20d
